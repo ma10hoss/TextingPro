@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09d79edc-91f7-4ff4-81de-54b37ec58662" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RM8IYqbw78mmExz9vcP4j3bmES" />
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.54367816" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Register" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/test/java/GlueCode" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="PageObjects" />
+      <recent name="Register" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/CoreClasses" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.HandlingMultipleWindowsTest.verifyBuyNowTitle">
+    <configuration name="ContactUsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="textingPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ContactUs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ContactUs" />
+      <option name="MAIN_CLASS_NAME" value="ContactUs.ContactUsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailUsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="textingPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EmailUs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="EmailUs" />
+      <option name="MAIN_CLASS_NAME" value="EmailUs.EmailUsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailUsTest.VerifyEmailUs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="textingPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EmailUs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="EmailUs" />
+      <option name="MAIN_CLASS_NAME" value="EmailUs.EmailUsTest" />
+      <option name="METHOD_NAME" value="VerifyEmailUs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingMultipleWindowsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="textingPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewPopUpWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NewPopUpWindow" />
+      <option name="MAIN_CLASS_NAME" value="NewPopUpWindow.HandlingMultipleWindowsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingMultipleWindowsTest.verifyBuyNowTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="textingPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewPopUpWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NewPopUpWindow" />
+      <option name="MAIN_CLASS_NAME" value="NewPopUpWindow.HandlingMultipleWindowsTest" />
+      <option name="METHOD_NAME" value="verifyBuyNowTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HandlingMultipleWindowsTest.verifyBuyNowTitle" />
+        <item itemvalue="TestNG.HandlingMultipleWindowsTest" />
+        <item itemvalue="TestNG.EmailUsTest" />
+        <item itemvalue="TestNG.EmailUsTest.VerifyEmailUs" />
+        <item itemvalue="TestNG.ContactUsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09d79edc-91f7-4ff4-81de-54b37ec58662" name="Default Changelist" comment="" />
+      <created>1569465524336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569465524336</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PageObjects/LoginPage.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
